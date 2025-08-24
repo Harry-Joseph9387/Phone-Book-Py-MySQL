@@ -38,6 +38,22 @@ Table: `contents`
 | email    | VARCHAR(50)  |
 
 ---
+## 📸 Output
+
+### ➕ Adding New Contacts
+![Adding New Contacts](picture1.png)
+
+### ❌ Deleting Existing Contact
+![Deleting Contact](picture2.png)
+
+### 👀 Viewing Contact Details
+![Viewing Contact](picture3.png)
+
+### ✏️ Editing Contact (Email, Name, Phone No., or Address)
+![Editing Contact 1](picture4.png)  
+![Editing Contact 2](picture5.png)
+
+---
 
 ## ⚙️ Setup & Installation
 
