@@ -41,17 +41,17 @@ Table: `contents`
 ## 📸 Output
 
 ### ➕ Adding New Contacts
-![Adding New Contacts](picture1.png)
+![Adding New Contacts](Picture1.png)
 
 ### ❌ Deleting Existing Contact
-![Deleting Contact](picture2.png)
+![Deleting Contact](Picture2.png)
 
 ### 👀 Viewing Contact Details
-![Viewing Contact](picture3.png)
+![Viewing Contact](Picture3.png)
 
 ### ✏️ Editing Contact (Email, Name, Phone No., or Address)
-![Editing Contact 1](picture4.png)  
-![Editing Contact 2](picture5.png)
+![Editing Contact 1](Picture4.png)  
+![Editing Contact 2](Picture5.png)
 
 ---
 
